@@ -4,6 +4,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
+                 "ghcr.io/itsmechlark/features/1password:1": {}
                 "GitHub.copilot"
             ]
         }
